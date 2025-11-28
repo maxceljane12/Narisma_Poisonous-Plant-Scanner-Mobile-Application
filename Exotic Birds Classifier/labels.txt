@@ -1,0 +1,10 @@
+0 Canary
+1 Cockatoo
+2 Finch
+3 Flamingo
+4 Hornbill
+5 Kingfisher
+6 Lovebirds
+7 Macaw
+8 Peacock
+9 Toucan
